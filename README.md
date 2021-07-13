@@ -1,3 +1,6 @@
+This project developement has served as practice tool to get familiar with React best practices and API implementation.
+1aeat uses YELP API to help user find restaurants near location of his choosing while using user-provided term to look for facilities of certain kind.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
